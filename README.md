@@ -8,9 +8,9 @@ Create Virtual Env
 
 - `pip install -r requirements.txt`
 
-set the GOOGLE_API_KEY
+Set the GOOGLE_API_KEY
 
-- `Set GOOGLE_API_KEY = ""  or export GOOGLE_API_KEY = ""`
+- `set GOOGLE_API_KEY = ""  or export GOOGLE_API_KEY = ""`
 
 ### this is steamlitApp so run the command
 - `streamlit run StreamlitApp.py`
