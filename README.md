@@ -3,5 +3,4 @@
 ## `this is the simplest QA CHATBOT`
 
 ## HOW TO RUN
-- `create conda -p venv=python=3.9.19` 
-- if miss the python version you encounter the error 
+- `create conda -p venv=python=3.9.19`   # if missmatch the python version you may encounter the error 
