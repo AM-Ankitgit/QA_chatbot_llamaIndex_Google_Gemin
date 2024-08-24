@@ -10,9 +10,8 @@ from logger import logging
 
 load_dotenv()
 
-# GOOGLE_API_KEY=os.environ["GOOGLE_API_KEY"]
+GOOGLE_API_KEY=os.environ["GOOGLE_API_KEY"]
 
-GOOGLE_API_KEY = "AIzaSyC0ssQGBFXXFtO4eN7sqHJywGj_CBPw0qM"
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
