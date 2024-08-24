@@ -37,5 +37,4 @@ set the GOOGLE_API_KEY
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAAC6b8kAAABH0lEQVQ4T2NkYGBg4C3wBQ4HegP7sAzPAkQawAyQAqfIAFuE5JYlMBTTPJ4EgFz8FXSBX0EBHDAA0C9oWQxQUygIC9IoRE2qRHwEKOaQZYFSBIHFMEiKHEBp6eN/gZZAiDo4QKBi6BLQTGzNkAUylA6YFxBRFz/3Z8uNjpB0Q4kIN/gHxDGHgykOpLdkRtUGUHpBRS/Ov7xAwaEBFTKPkv+fgKTjMKq2DpcZcAJAQIVQqG3EIAuEo7W9yWMAgG6gBiAopNYFj7AzFfTptUJA3fElnAABV3E8HryxXAAAAAElFTkSuQmCC)
