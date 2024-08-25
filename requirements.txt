@@ -6,5 +6,7 @@ python-dotenv
 IPython
 llama-index-embeddings-gemini
 streamlit
+llama-index-readers-web
+html2text
 
 #-e .
